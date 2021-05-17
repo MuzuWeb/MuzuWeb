@@ -8,7 +8,7 @@
 <a href="https://instagram.com/eiroweb"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
 <br>
-<p align="center">Moi c'est Gorz, je suis un jeune développeur passionné par l'informatique ! Je fais des petits scripts plus ou moins utiles ou fun :).</p>
+<p align="center">Moi c'est Yazz, je suis un jeune développeur passionné par l'informatique ! Je fais des petits scripts plus ou moins utiles ou fun :).</p>
 <br>
 
 ### 📫 Langage maîtrisés
@@ -19,19 +19,19 @@
 
 ### 👥 Visiteurs
 
-![Profile views](https://gpvc.arturio.dev/GorzWeb)
+![Profile views](https://gpvc.arturio.dev/Yazz)
 
 ### 📈 Mes statistiques GitHub:
 
-<a href="https://github.com/GorzWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GorzWeb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Gorz's stats" />
+<a href="https://github.com/YazzDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GorzWeb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Yazz's stats" />
 </a>
 <br><br>
-<a href="https://github.com/GorzWeb?tab=repositories">
+<a href="https://github.com/YazzDev?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorzWeb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <br>
 <br>
 <br>
-<a href="https://github.com/GorzWeb">
+<a href="https://github.com/YazzDev">
   
