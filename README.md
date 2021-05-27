@@ -24,11 +24,11 @@
 ### 📈 Mes statistiques GitHub:
 
 <a href="https://github.com/YazzDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GorzWeb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Yazz's stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YazzDev&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Yazz's stats" />
 </a>
 <br><br>
 <a href="https://github.com/YazzDev?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorzWeb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazzDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <br>
 <br>
