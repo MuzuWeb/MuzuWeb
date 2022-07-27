@@ -1,5 +1,5 @@
 
-<h2 align="center">Salut 👋 ! Moi c'est yazzdev 👀</h2>
+<h2 align="center">Salut 👋 ! Moi c'est yazz 👀</h2>
 <img src="https://cdn.discordapp.com/attachments/755741601422376980/783440506461224990/1540072748_664f42564686cda19a5370f04df2319fda5f831b_hq.gif">
 
 <p align='center'>
