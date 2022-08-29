@@ -1,6 +1,6 @@
 
 <h2 align="center">Salut 👋 ! Moi c'est Muzu 👀</h2>
-<img src="https://cdn.discordapp.com/attachments/755741601422376980/783440506461224990/1540072748_664f42564686cda19a5370f04df2319fda5f831b_hq.gif">
+<center><img src="https://cdn.discordapp.com/attachments/755741601422376980/783440506461224990/1540072748_664f42564686cda19a5370f04df2319fda5f831b_hq.gif"></center>
 
 <p align='center'>
 <a href="https://discord.gg/gorz"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
