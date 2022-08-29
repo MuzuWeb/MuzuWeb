@@ -1,7 +1,5 @@
 
 <h2 align="center">Salut 👋 ! Moi c'est Muzu 👀</h2>
-<center><img src="https://cdn.discordapp.com/attachments/755741601422376980/783440506461224990/1540072748_664f42564686cda19a5370f04df2319fda5f831b_hq.gif"></center>
-
 <p align='center'>
 <a href="https://discord.gg/gorz"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/sqostik?sub_confirmation=1"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +26,7 @@
 </a>
 <br><br>
 <a href="https://github.com/MuzuWeb?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazzDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzuWeb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <br>
 <br>
