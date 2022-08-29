@@ -1,5 +1,5 @@
 
-<h2 align="center">Salut 👋 ! Moi c'est yazz 👀</h2>
+<h2 align="center">Salut 👋 ! Moi c'est Muzu 👀</h2>
 <img src="https://cdn.discordapp.com/attachments/755741601422376980/783440506461224990/1540072748_664f42564686cda19a5370f04df2319fda5f831b_hq.gif">
 
 <p align='center'>
@@ -8,7 +8,7 @@
 <a href="https://instagram.com/eiroweb"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
 <br>
-<p align="center">Moi c'est yazz, je suis un jeune développeur passionné par l'informatique ! Je fais des petits scripts plus ou moins utiles ou fun :).</p>
+<p align="center">Moi c'est Muzu, je suis un jeune développeur passionné par l'informatique ! Je fais des petits scripts plus ou moins utiles ou fun :).</p>
 <br>
 
 ### 📫 Langage maîtrisés
@@ -19,19 +19,19 @@
 
 ### 👥 Visiteurs
 
-![Profile views](https://gpvc.arturio.dev/Yazz)
+![Profile views](https://gpvc.arturio.dev/MuzuWeb)
 
 ### 📈 Mes statistiques GitHub:
 
-<a href="https://github.com/YazzDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YazzDev&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Yazz's stats" />
+<a href="https://github.com/MuzuWeb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuzuWeb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Muzu's stats" />
 </a>
 <br><br>
-<a href="https://github.com/YazzDev?tab=repositories">
+<a href="https://github.com/MuzuWeb?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazzDev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <br>
 <br>
 <br>
-<a href="https://github.com/YazzDev">
+<a href="https://github.com/MuzuWeb">
   
